@@ -1,0 +1,62 @@
+.container {
+    font-family: 'Oxygen', sans-serif;
+    background-image: url("airport.jpg");
+    background-size: cover;
+    max-width: 400px;
+    height: 80vh;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 700;
+    text-shadow: 0 0 10px black;
+    margin-bottom: 5px;
+    padding-top: 30px;
+}
+
+h2 {
+    color: #fff;
+    text-shadow: 0 0 10px black;
+    margin-top: 0;
+    padding-top: 30px;
+}
+  
+#increment-btn {
+    background: #283618;
+    color: #fff;
+    font-family: inherit;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-family: inherit;
+    margin-top: 100px;
+    font-size: 18px;
+}
+
+#increment-btn:hover {
+    background: #bc4749;
+
+}
+
+#save-btn {
+    background: #e29578;
+    color: #26140d;
+    font-family: inherit;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-family: inherit;
+    font-size: 18px;
+
+}
+
+#save-btn:hover {
+    background: #ff9f1c;
+    color: #FFF;
+}
+
+#previous {
+    color: #fff;
+    text-shadow: 0 0 10px black;
+    padding-bottom: 8px;
+}
